@@ -1,0 +1,24 @@
+{
+	"name": "ID Print Hide Module",
+	"namespace": "Vanderbilt\\IDPrintHideModule",
+	"framework-version": 8,
+	"description": "Hides Record ID when a user prints screen on an instrument.",
+	"authors": [
+		{
+			"name": "Travis Wilson",
+			"email": "datacore@vumc.org",
+			"institution": "Vanderbilt University Medical Center"
+		}
+	],
+	"permissions": [
+		"redcap_every_page_top",
+		"redcap_data_entry_form_top",
+		"redcap_survey_page_top"
+	],
+	"links": {
+		
+	},
+	"project-settings": [
+		
+	]
+}
